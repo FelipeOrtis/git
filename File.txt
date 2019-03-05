@@ -10,4 +10,11 @@
 
 -git commit
   - m //permite poner un mensaje con comillas
-  - a
+  - a //ejecuta git add .
+
+-git log
+ --oneline
+
+-git push
+
+  -origin branch
