@@ -34,3 +34,12 @@ I DONT'T WANT LOSE THIS BUT I NEED MOVE
 commit 1
 
 commit 2
+
+-git revert 
+ -HEAD
+ -m 1
+
+-git reset
+ --hard
+ --mixed
+ --soft
