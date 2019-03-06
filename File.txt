@@ -32,3 +32,5 @@ $ git config --global alias.logline log --oneline
 I DONT'T WANT LOSE THIS BUT I NEED MOVE 
 
 commit 1
+
+commit 2
